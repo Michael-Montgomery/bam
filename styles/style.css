@@ -16,7 +16,6 @@ header nav a {
 
 header nav a:first-child {
     float: left;
-
 }
 
 header nav a:not(:first-child) {
@@ -45,7 +44,6 @@ header nav a:not(:first-child) {
     width: 90vw;
     height: 50vh;
     margin: 0 auto;
-
 }
 
 #featured-wrapper h2 {
@@ -64,7 +62,6 @@ header nav a:not(:first-child) {
 }
 #featured-wrapper ul li {
     display: inline-block;
-    
 }
 
 .featured-item-wrapper {
